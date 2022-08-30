@@ -18,7 +18,7 @@ public class MyListner extends Base implements WebDriverEventListener {
 	@Override
 	public void beforeAlertAccept(WebDriver driver) {
 		// TODO Auto-generated method stub
-		
+		System.out.println("chandra");
 	}
 
 	@Override
